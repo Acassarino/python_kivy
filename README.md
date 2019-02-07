@@ -44,4 +44,46 @@ applicazione](https://kivy.org/doc/stable/installation/installation-osx.html).
 Per i sistemi Windows occorre [seguire questa
 procedura](https://kivy.org/doc/stable/installation/installation-windows.html).
 
+---
 
+## strumenti utili
+
+Non appena si transita da sperimentare pochi comangi python nell'interprete a
+sviluppare piccoli progetti, diventa necessario utilizzare uno strumento per
+scrivere file sorgenti.  
+La soluzione minimale consiste nell'impiegare qualunque editor di testo, per
+esempio in Windows il cosiddetto [blocco note](https://it.wikipedia.org/wiki/Blocco_note)
+
+Risuta pero' decisamente vantaggioso utilizzare editor specializzati per la
+programmazione, in cui vi sono ausili (colori, evidenziazione) per evitare di
+sbagliare a scrivere comandi.
+
+L'editor per programmazione piu' potente e universale e\` il
+[vim](https://www.vim.org/), gia' installato in Linux, e disponibile per
+qualunque sistema operativo, richiede un certo tempo per impadronirsi di tutte
+le sue funzioni.
+
+Un editor piu' semplice ed immediato da utilizzare, ma comunque molto potente,
+per MacOs e\` [Sublime Text](https://www.sublimetext.com/), per Windows si
+consiglia [Notepad++](https://notepad-plus-plus.org/)
+
+
+---
+
+## soluzione a possibili inconvenienti
+
+Utenti Windows hanno facilmente difficolta' nell'importare in Python i file
+sorgenti che hanno creato, perche' non viene trovata la directory dove si
+trovano.
+
+La soluzione migliore e\` di evitare di eseguire Python lanciandolo come
+normalmente si eseguono i programmi, e invece seguire i seguenti passi:
+
+- aprire un [terminale di
+  comandi](https://www.memexcomputer.it/aprire-il-prompt-dei-comandi-di-windows/)
+
+- tipicamente la finestra si trova gia' posizionata nella directory utente, e
+  quindi laddove ci sono i file in python di interesse, in caso contrario usare
+  il comando `cd` per cambiare directory
+
+- invocare l'interprete python con il comando `py`
