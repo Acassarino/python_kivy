@@ -44,6 +44,11 @@ applicazione](https://kivy.org/doc/stable/installation/installation-osx.html).
 Per i sistemi Windows occorre [seguire questa
 procedura](https://kivy.org/doc/stable/installation/installation-windows.html).
 
+Anche se si puo' consultare comodamente tutta la documentazione di Kivy
+[online](https://kivy.org/doc/stable/), si consiglia di scaricarsi
+[il manuale](https://media.readthedocs.org/pdf/kivy/latest/kivy.pdf), in modo da
+poter avere sottomano il riferimento anche in mancanza di collegamento internet.
+
 ---
 
 ## strumenti utili
