@@ -5,7 +5,6 @@ alex 06 Feb 2019
 """
 
 import kivy
-kivy.require('1.0.8')
 
 from kivy.app           import App
 from kivy.uix.label     import Label
