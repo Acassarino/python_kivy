@@ -29,6 +29,20 @@ usando la versione `x86` se il proprio computer e\` a 32 bit, oppure `x86-64` se
 il proprio computer e\` a 64 bit (se non lo si sa, queste sono [le
 indicazioni](https://www.computerhope.com/issues/ch001121.htm) per verificarlo).
 
+
+All'inizio dell'installazione di Python **si raccomanda di prestare attenzione
+all'opzione** `Add to Path` che di default non risulta selezionata:
+**selezionatela**
+
+In questa maniera il `path` (percorso tra directory) in sui si trova Python
+diventa noto al sistema operativo e quindi in una finestra di comandi si potra'
+eseguire tranquillamente `python` in qualunque directory ci si trovi.
+
+Sara' sempre possibile in seguito aggiungere il `path` di Python agendo sulla
+variabile d'ambiente `PATH`, ma e' decisamente conveniente lasciarlo fare
+all'installatore.
+
+
 ---
 
 Per usare `kivy` occorre installarlo, una volta avendo `python` funzionante.
