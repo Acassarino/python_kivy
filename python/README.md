@@ -22,3 +22,15 @@ oppure, in Windows con:
 
 sempre in Windows e\` possibile eseguilo anche semplicemente cliccando sulla sua
 icona.
+
+---
+
+Il file [lex_stat.py](lex_stat.py) fornisce una primo semplice esempio di
+[analisi semantica
+distribuzionale](https://en.wikipedia.org/wiki/Distributional_semantics),
+ovvero di analisi dei testi basati sulla distribuzione statistica dellle parole.
+
+Sono prese come esempio [alcune famose poesie italiane](poesie/README.md)
+
+Analogamente a [intergramm.py](intergramm.py), anche per [lex_stat.py](lex_stat.py)
+si e\` scritta una semplicissima interfaccia: [inter_lex.py](inter_lex.py).
